@@ -1,0 +1,17 @@
+[package]
+name = "nordtui"
+version = "0.1.0"
+edition = "2021"
+description = "TUI (terminal interface) for the official NordVPN CLI"
+
+[[bin]]
+name = "nordtui"
+path = "src/main.rs"
+
+[dependencies]
+ratatui = "0.26"
+crossterm = "0.27"
+
+[profile.release]
+opt-level = 3
+lto = true
