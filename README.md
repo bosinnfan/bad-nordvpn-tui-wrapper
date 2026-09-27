@@ -15,3 +15,5 @@ sudo cp target/release/nordtui /usr/local/bin/
 
 * Rust / Cargo
 * Cliente CLI oficial de NordVPN instalado y configurado
+* 
+<img width="1887" height="1000" alt="imagen" src="https://github.com/user-attachments/assets/90f2feba-6c51-4671-98b7-8c33f431aa8d" />
