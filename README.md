@@ -10,6 +10,12 @@ chmod +x target/release/nordtui
 sudo cp target/release/nordtui /usr/local/bin/
 
 ```
+# Ejecutar
+ejecta en la terminal el comando:
+```bash
+nordtui
+
+```
 
 ## Requisitos
 
